@@ -30,7 +30,7 @@ while(True):
                            
                            
     
-    ## do something by using v
+    
     cv2.imshow('title',frame-2*v) # show in the win
         
 
