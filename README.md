@@ -13,4 +13,4 @@ Python 3.6.5
 である。
 cv2.imshow('title',frame-2*v) 
 以外のコードは全てサンプルコードと同一である。
-以下動画のリンク。https://youtu.be/n_h6tjvx6CU
+以下動画のリンク。https://youtu.be/GTsyVHGkVOU
