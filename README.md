@@ -13,3 +13,7 @@ Python 3.6.5
 である。
 cv2.imshow('title',frame-2*v) 
 以外のコードは全てサンプルコードと同一である。
+## Demo
+
+Depending on input, the output is displayed as the result like the image below.
+![result](https://github.com/hiroshima-uyt/digital-1/blob/media/ex2.mov.gif)
