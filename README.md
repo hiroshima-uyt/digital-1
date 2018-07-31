@@ -25,4 +25,5 @@ koutoukousei-no-MacBook-Air:~ takayuki$ python --version
 Python 3.6.6
 である。
 git push origin masterでエラーが出たため、ファイルe1にプログラムを書いた。
+以下のページを参考にした。https://qiita.com/mix_dvd/items/98feedc8c98bc7790b30
 以下動画のリンク.https://youtu.be/dM4zccKM4AA
